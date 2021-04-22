@@ -8,7 +8,7 @@
 
 using namespace ariel;
 using namespace std;
-// using ariel::NumberWithUnits;
+using ariel::NumberWithUnits;
 
 
 TEST_CASE("Plus"){
